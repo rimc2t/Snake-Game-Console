@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\vs_projects\snakegame\snakegame\source.cpp(535): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SnakeGame.vcxproj -> E:\VS_Projects\SnakeGame\Debug\SnakeGame.exe
